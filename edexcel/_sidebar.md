@@ -1,0 +1,1 @@
+* [Pure Mathematics](/edexcel/pure-mathematics/README.md)

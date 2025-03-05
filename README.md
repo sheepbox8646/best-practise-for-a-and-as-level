@@ -16,7 +16,7 @@
 
 ## 快速导航
 
-- [Edexcel](./edexcel)
+- [Edexcel](./edexcel/README.md)
   - [Pure Mathematics](./edexcel/pure-mathematics/README.md)
   - [Further Pure Mathematics (尚未开工)](./edexcel/further-pure-mathematics/README.md)
   - [Mechanics (尚未开工)](./edexcel/mechanics/README.md)
